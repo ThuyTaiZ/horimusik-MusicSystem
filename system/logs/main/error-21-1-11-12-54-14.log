@@ -1,0 +1,6 @@
+[1/11/21, 14:49:02] [error]: DiscordAPIError: Unknown Message
+    at RequestHandler.execute (/rbd/pnpm-volume/b1500458-0404-4879-b018-c469f8f16343/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async RequestHandler.push (/rbd/pnpm-volume/b1500458-0404-4879-b018-c469f8f16343/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+    at async MessageManager.delete (/rbd/pnpm-volume/b1500458-0404-4879-b018-c469f8f16343/node_modules/discord.js/src/managers/MessageManager.js:126:5)
